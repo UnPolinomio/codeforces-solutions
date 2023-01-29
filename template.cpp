@@ -1,3 +1,8 @@
+/*
+ * Author: $%U%$
+ * Time: $%Y%$-$%M%$-$%D%$ $%h%$:$%m%$:$%s%$
+**/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define _                           \

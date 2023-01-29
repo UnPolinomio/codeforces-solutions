@@ -1,1 +1,1 @@
-g++ -std=c++17 -O2 -Wall -Wextra -o main -pedantic [filename] && ./main
+g++ -std=c++17 -O2 -Wall -Wextra -o main -pedantic [filename] && ./main < main.in > main.out

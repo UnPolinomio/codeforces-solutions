@@ -11,6 +11,7 @@ using namespace std;
   cout.tie(0)
 #define deb(x) cout << #x << ": " << (x) << '\n';
 #define all(x) begin(x), end(x)
+#define fore(x, a, b) for(lli x = a, ___lim___=b; x < ___lim___; ++x)
 using lli = long long int;
 using vi = vector<lli>;
 using vb = vector<bool>;
